@@ -1,1 +1,2 @@
 Este es un archivo ejemplo para realizar el ejercicio por parejas
+modificado G
